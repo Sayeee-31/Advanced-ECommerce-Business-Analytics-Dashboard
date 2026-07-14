@@ -1,0 +1,7 @@
+Dataset,Rows,Missing Values,Duplicate Rows,Completeness (%)
+Customers,99441,0,0,100.0
+Orders,99441,4908,0,99.38
+Payments,103886,0,0,100.0
+Products,32951,0,0,100.0
+Sellers,3095,0,0,100.0
+Order Items,112650,0,0,100.0
